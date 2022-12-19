@@ -18,11 +18,12 @@ public class NewMain {
         
         
         //Prueba 1
-        
+        //Prueba 2
         
         int i =0;
         while (i<10)
             System.out.println("I vale: "+i);
+
     }
     
 }
